@@ -47,4 +47,3 @@ Evaluation Metrics:
 
 ---
 
-## 📦 Installation
